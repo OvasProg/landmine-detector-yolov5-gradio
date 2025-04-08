@@ -60,11 +60,11 @@ Then open http://127.0.0.1:7860 in your browser.
 
 ## 🧠 How It Was Built
 
-•	Model: Trained using YOLOv5
-•	Dataset: Custom-labeled SATM and SAPEM images (sourced and labeled via Roboflow)
-•	Training: 50 epochs on Google Colab, model saved as best.pt
-•	Interface: Built with Gradio for easy web app deployment
-•	Deployment: Hosted on Hugging Face Spaces
+- Model: Trained using YOLOv5 in Google Colab
+- Dataset: Custom-labeled SATM and SAPEM images (sourced and labeled via Roboflow)
+- Training: 50 epochs on Google Colab, model saved as best.pt
+- Interface: Built with Gradio for easy web app deployment
+- Deployment: Hosted on Hugging Face Spaces
 
 ## 📄 Features
 - 🔍 Detect SATM / SAPEM landmines
