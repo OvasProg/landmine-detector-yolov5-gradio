@@ -13,6 +13,7 @@ The app is built with **Gradio** for an intuitive interface and allows:
 
 🎯 Try it here:  
 👉 [Hugging Face Space](https://huggingface.co/spaces/OvasProg/landmine-detector)
+> 🖼️ Test samples can be found in the `/sample_images/` directory.
 
 ---
 
