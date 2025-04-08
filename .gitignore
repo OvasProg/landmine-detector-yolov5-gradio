@@ -1,0 +1,21 @@
+# YOLOv5 output folders
+runs/
+static/
+detection_log.csv
+
+# Python/OS clutter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
